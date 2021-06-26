@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FinalExam</string>
+    <string name="newmovie">新片上映</string>
+    <string name="all">排行榜</string>
+    <string name="collect">收藏</string>
+    <string name="more">更多资讯</string>
+</resources>
